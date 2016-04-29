@@ -1,3 +1,16 @@
-h1 {background-color: black;
-	color: white
-	text}
+body {background-color: #efeee7;
+		font-style: "Georgia",Times New Roman,Times,serif;
+		font: #333333;
+		margin: 0;
+		padding: 0;
+	}
+
+header {background-color: #d21034;
+	}
+
+h1 {background-color: #333333;
+		font-size: 28px;
+		margin: auto;
+		padding: auto;
+	}
+
